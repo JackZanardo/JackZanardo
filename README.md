@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SuperCombatWombat
+- 👋 Hi, I’m @JackZanardo
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning programming and software development.
 - 📫 How to reach me: SuperCombatWombat@protonmail.com
