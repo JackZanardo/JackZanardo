@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JackZanardo
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning programming and software development.
-- 📫 How to reach me: SuperCombatWombat@protonmail.com
+- 👀 I’m interested in software and programming.
+- 🌱 I’m a recent graduate of Diploma of Software Development at TAFE Petersham.
+- 📫 How to reach me: Jack.Zanardo@protonmail.com
 
 <!---
 SuperCombatWombat/SuperCombatWombat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
